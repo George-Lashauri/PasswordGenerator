@@ -1,0 +1,44 @@
+
+* {
+
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #5D2F77;
+    text-align: center;
+    padding: 120px 0;
+}   
+
+#generate-btn {
+    margin-top: 30px;
+    background-color: #E45A92;
+    color: #17012c;
+    font-weight: bold;
+    font-size: 16px;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+#password-el {
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+    color: #17012c;
+    font-weight: bold;
+    background-color: #E45A92;
+    padding: 15px 20px;
+    border-radius: 8px;
+    box-sizing: border-box;
+    width: fit-content;
+    min-width: 180px;
+    min-height: 20px;
+}
+span {
+    color: #faf6fe;
+}
